@@ -1,8 +1,6 @@
 [![Social banner for jh3y](https://github.com/jh3y/jh3y/raw/master/assets/header-banner--optimized.svg)](https://jhey.dev)
-<h1 align='center'> Hi! <img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/hi.gif" width="40px"/></h1>
-<p align='center'>
-I'm Yatin.
-</p>
+<h1 align='center'> Hi! <img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/hi.gif" width="40px"/>I'm <a href="https://abhinavsinha.xyz/" target="_blank">Yatin</a></h1>
+
 
 
  ![Profile views](https://gpvc.arturio.dev/Yatin22?v=3)
