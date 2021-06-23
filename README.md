@@ -5,10 +5,10 @@ I'm Yatin.
 </p>
 <h1 align="center">Hey <img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/hi.gif" width="40px"/> I'm <a href="https://abhinavsinha.xyz/" target="_blank">Abhinav</a>. Nice to see you here. 🤗</h1>
 
- ![Profile views](https://gpvc.arturio.dev/zeborg?v=3)
+ ![Profile views](https://gpvc.arturio.dev/Yatin22?v=3)
 </p>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=zeborg&theme=tokyonight_duo)](https://github.com/zeborg)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Yatin22&theme=tokyonight_duo)](https://github.com/Yatin22)
 
 <h1 align='center'><i>Stay awesome!</i></h1>
 <details>
