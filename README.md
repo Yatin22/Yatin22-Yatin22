@@ -5,6 +5,15 @@ I'm Yatin.
 </p>
 
 <h1 align='center'><i>Stay awesome!</i></h1>
+<details>
+  <summary>🌟 GitHub Stats</summary>
+  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=zeborg&show_icons=true&theme=merko" />
+</details>
+
+<details>
+  <summary>📚 Most Used Languages</summary>
+  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zeborg&layout=compact" />
+</details>
 
 ### 📫 Connect with me<img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" height="32px">
  
