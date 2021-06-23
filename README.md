@@ -2,9 +2,8 @@
 <h1 align='center'> Hi! :wave:</h1>
 <p align='center'>
 I'm Yatin.
-</p>
 ![Profile views](https://gpvc.arturio.dev/Yatin22?v=3)
-
+</p>
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Yatin22&theme=tokyonight_duo)](https://github.com/Yatin22)
 <h1 align='center'><i>Stay awesome!</i></h1>
 <details>
