@@ -1,7 +1,8 @@
-[![Social banner for Yatin](https://github.com/Yatin22/Yatin22/raw/master/assets/header-banner--optimized.svg)]
+[![Social banner for jh3y](https://github.com/jh3y/jh3y/raw/master/assets/header-banner--optimized.svg)](https://jhey.dev)
 <h1 align='center'> Hi! :wave:</h1>
 <p align='center'>
 I'm Yatin.
+</p>
 ![Profile views](https://gpvc.arturio.dev/Yatin22?v=3)
 </p>
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Yatin22&theme=tokyonight_duo)](https://github.com/Yatin22)
