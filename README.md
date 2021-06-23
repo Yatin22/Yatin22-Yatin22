@@ -1,4 +1,4 @@
-[![Social banner for jh3y](https://github.com/jh3y/jh3y/raw/master/assets/header-banner--optimized.svg)](https://jhey.dev)
+<!-- [![Social banner for jh3y](https://github.com/jh3y/jh3y/raw/master/assets/header-banner--optimized.svg)](https://jhey.dev) -->
 <h1 align='center'> Hi! <img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/hi.gif" width="40px"/>I'm <a href="https://yatin22.github.io/blogger-crypto/" target="_blank">Yatin</a></h1>
 
 
